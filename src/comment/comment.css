@@ -1,0 +1,17 @@
+.line1px {
+  border: none;
+  border-bottom: 1px solid #e1e3e5;
+  height: 1px;
+  transform: scaleY(0.5);
+  transform-origin: 0 0;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin: 0 0;
+}
+.border1px {
+  border: 1px solid #ebebeb;
+  transform: scaleY(0.5, 0.5);
+  transform-origin: 0 0;
+  -webkit-transform: scaleY(0.5, 0.5);
+  -webkit-transform-origin: 0 0;
+  border-radius: 10px;
+}
